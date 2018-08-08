@@ -1,0 +1,2 @@
+# EzanApiScript
+Azan Times Script
