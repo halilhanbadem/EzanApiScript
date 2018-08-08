@@ -29,5 +29,5 @@
    echo $city[3] . "<br/>";
    echo $city[4] . "<br/>";
    echo $city[5] . "<br/>";
- 
+  
  ?>
