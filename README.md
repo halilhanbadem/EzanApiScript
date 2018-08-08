@@ -8,5 +8,5 @@ By typing any province(lowercase letters will be used and Turkish characters wil
 
 `https://localhost/ezanapi.php?il=cityname`
 
-Best regards,
+Best regards, <br>
 Halil Han Badem / Developer
