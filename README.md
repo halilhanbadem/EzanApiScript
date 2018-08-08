@@ -1,4 +1,4 @@
-**This API  service data haberler.com he's pulling from his site.**
+**This API  service data haberler.com he's pulling from his site.** 
 
 Using this API service, you can easily capture the time of the cities in Turkey. All you have to do is use it as follows.
 
